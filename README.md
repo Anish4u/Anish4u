@@ -15,7 +15,6 @@ In parallel with my professional journey, I am currently pursuing a Master's deg
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish4u" height="30" width="40" /></a>
-
 <a href="https://anish4u.github.io/web" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/002/206/015/small/developer-working-icon-free-vector.jpg" alt="anish4u" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +26,27 @@ In parallel with my professional journey, I am currently pursuing a Master's deg
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish4u&&show_icons=true&locale=en" alt="anish4u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish4u&" alt="anish4u" /></p>
-Projects:
+
+<h5>PERSONAL PROJECTS</h5>
+              <br><b>YouTube Clone</b>
+              <p><em>Developed a YouTube Clone using React with features including dark/light mode, real-time data
+                  fetching from YouTube API, infinite scrolling, optimized search with caching, lazy loading, live chat
+                  via API, and shimmer effect for UI enhancement. <a
+                    href="https://anish4u.github.io/youtube_in/">Link</a>
+                </em></p>
+            </div>
+            <!-- <p><em>Innovative and deadline-driven Software Developer with 6+ years of experience designing and
+                  developing Application, I have
+                  experience in all phases of software development life cycle using Agile methodologies.</em></p> -->
+            <!-- </div> -->
+            <div class="resume-item pb-1">
+              <br><b>IoT Device Data Handling for summer cottages</b>
+              <p><em>
+                  Created Backend for IoT Device Data Handling for summer cottages throughout Finland using Node
+                  with typescript <a href="https://github.com/Anish4u/iotsummerCottageBackend/">Link</a></em></p>
+            </div>
+            <div class="resume-item pb-2">
+              <br><b>Realtime Message board application</b>
+              <p><em>
+                  Realtime Message board application with multiple channels using ReactJS & NodeJS using Express,
+                  Socket.Io </em></p>
