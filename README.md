@@ -15,28 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Anish Sasidharan</h1>
-<!-- <h3 align="center">A passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3> -->
+<h3 align="center">A passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish4u&label=Profile%20views&color=0e75b6&style=flat" alt="anish4u" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish4u&" alt="anish4u" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish4u&" alt="anish4u" /></a> </p> -->
 
-<h1 align="center">Hi 👋, I'm Anish Sasidharan</h1>
-<h3 align="center">A passionate developer </h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish4u&label=Profile%20views&color=0e75b6&style=flat" alt="anish4u" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish4u&" alt="anish4u" /></a> </p>
-
--🔭 I am Anish Sasidharan, A Full Stack Developer with over 6 years of experience in e-commerce product development. My expertise lies in crafting robust solutions using technologies such as React.js, Node.js, TypeScript, REST API, MySQL, and Redis, contributing to the creation of scalable and efficient systems.
+-🔭 I am  Full Stack Developer with over 6 years of experience in e-commerce product development. My expertise lies in crafting robust solutions using technologies such as React.js, Node.js, TypeScript, REST API, MySQL, and Redis, contributing to the creation of scalable and efficient systems.
 
 In my career, I have proficiency in business and technical analysis, showcasing strong leadership skills. I have successfully played key roles in organizational enhancements, collaborative team efforts, and the achievement of critical business objectives. My ability to engage with external third-party vendors and stakeholders has facilitated effective communication and coordination, ensuring the smooth execution of projects.
 
 In parallel with my professional journey, I am currently pursuing a Master's degree at Metropolia University of Applied Sciences, specializing in Artificial Intelligence and Machine Learning. This academic pursuit has allowed me to deepen my knowledge and skills, including hands-on experience with Python libraries (e.g., sklearn, statsmodels, pandas, NumPy) and traditional ML models (both supervised and unsupervised). Additionally, I have been actively involved in conducting data validation for cyber risk data across various projects and contributing to portfolio construction. I am confident that my diverse skill set and commitment to continuous learning make me a valuable asset to your organization's development.
 
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish4u" height="30" width="40" /></a>
+</p>
+<a href="https://anish4u.github.io/web" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/002/206/015/small/developer-working-icon-free-vector.jpg" alt="anish4u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,4 +46,3 @@ In parallel with my professional journey, I am currently pursuing a Master's deg
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish4u&&show_icons=true&locale=en" alt="anish4u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish4u&" alt="anish4u" /></p>
-
