@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**Anish4u/Anish4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Anish Sasidharan</h1>
 <h3 align="center">A passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
@@ -27,14 +12,10 @@ In my career, I have proficiency in business and technical analysis, showcasing 
 
 In parallel with my professional journey, I am currently pursuing a Master's degree at Metropolia University of Applied Sciences, specializing in Artificial Intelligence and Machine Learning. This academic pursuit has allowed me to deepen my knowledge and skills, including hands-on experience with Python libraries (e.g., sklearn, statsmodels, pandas, NumPy) and traditional ML models (both supervised and unsupervised). Additionally, I have been actively involved in conducting data validation for cyber risk data across various projects and contributing to portfolio construction. I am confident that my diverse skill set and commitment to continuous learning make me a valuable asset to your organization's development.
 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish4u" height="30" width="40" /></a>
-</p>
+
 <a href="https://anish4u.github.io/web" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/002/206/015/small/developer-working-icon-free-vector.jpg" alt="anish4u" height="30" width="40" /></a>
 </p>
 
@@ -46,3 +27,4 @@ In parallel with my professional journey, I am currently pursuing a Master's deg
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish4u&&show_icons=true&locale=en" alt="anish4u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish4u&" alt="anish4u" /></p>
+Projects:
