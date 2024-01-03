@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Anish Sasidharan</h1>
-<h3 align="center">A passionate developer </h3>
+<!-- <h3 align="center">A passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish4u&label=Profile%20views&color=0e75b6&style=flat" alt="anish4u" /> </p>
 
