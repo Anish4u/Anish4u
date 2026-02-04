@@ -6,7 +6,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish4u&" alt="anish4u" /></a> </p> -->
 
--🔭 I am  Full Stack Developer with over 6 years of experience in e-commerce product development. My expertise lies in crafting robust solutions using technologies such as React.js, Node.js, TypeScript, REST API, MySQL, and Redis, contributing to the creation of scalable and efficient systems.
+-🔭 I am  Full Stack Developer with over 8 years of experience in Banking sector & e-commerce product development. My expertise lies in crafting robust solutions using technologies such as React.js, Node.js, TypeScript, REST API, MySQL, and Redis,CCM techstack contributing to the creation of scalable and efficient systems.
 
 In my career, I have proficiency in business and technical analysis, showcasing strong leadership skills. I have successfully played key roles in organizational enhancements, collaborative team efforts, and the achievement of critical business objectives. My ability to engage with external third-party vendors and stakeholders has facilitated effective communication and coordination, ensuring the smooth execution of projects.
 
